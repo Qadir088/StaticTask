@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\StaticTask\StaticTask\bin\Debug\StaticTask.exe.config
+C:\Users\HP\source\repos\StaticTask\StaticTask\bin\Debug\StaticTask.exe
+C:\Users\HP\source\repos\StaticTask\StaticTask\bin\Debug\StaticTask.pdb
+C:\Users\HP\source\repos\StaticTask\StaticTask\obj\Debug\StaticTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\StaticTask\StaticTask\obj\Debug\StaticTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\StaticTask\StaticTask\obj\Debug\StaticTask.exe
+C:\Users\HP\source\repos\StaticTask\StaticTask\obj\Debug\StaticTask.pdb
